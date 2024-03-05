@@ -1,0 +1,14 @@
+.mainBlock {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .mainBlock:hover {
+    color: rgb(113, 153, 255);
+  }
+  
+  .additional-text {
+    display: flex;
+    /* justify-content: center; */
+  }
